@@ -1,0 +1,13 @@
+C:\Users\M1022338\source\repos\BasketBallApplcation\bin\Debug\netcoreapp3.1\BasketBallApplcation.exe
+C:\Users\M1022338\source\repos\BasketBallApplcation\bin\Debug\netcoreapp3.1\BasketBallApplcation.deps.json
+C:\Users\M1022338\source\repos\BasketBallApplcation\bin\Debug\netcoreapp3.1\BasketBallApplcation.runtimeconfig.json
+C:\Users\M1022338\source\repos\BasketBallApplcation\bin\Debug\netcoreapp3.1\BasketBallApplcation.runtimeconfig.dev.json
+C:\Users\M1022338\source\repos\BasketBallApplcation\bin\Debug\netcoreapp3.1\BasketBallApplcation.dll
+C:\Users\M1022338\source\repos\BasketBallApplcation\bin\Debug\netcoreapp3.1\BasketBallApplcation.pdb
+C:\Users\M1022338\source\repos\BasketBallApplcation\obj\Debug\netcoreapp3.1\BasketBallApplcation.csproj.AssemblyReference.cache
+C:\Users\M1022338\source\repos\BasketBallApplcation\obj\Debug\netcoreapp3.1\BasketBallApplcation.AssemblyInfoInputs.cache
+C:\Users\M1022338\source\repos\BasketBallApplcation\obj\Debug\netcoreapp3.1\BasketBallApplcation.AssemblyInfo.cs
+C:\Users\M1022338\source\repos\BasketBallApplcation\obj\Debug\netcoreapp3.1\BasketBallApplcation.csproj.CoreCompileInputs.cache
+C:\Users\M1022338\source\repos\BasketBallApplcation\obj\Debug\netcoreapp3.1\BasketBallApplcation.dll
+C:\Users\M1022338\source\repos\BasketBallApplcation\obj\Debug\netcoreapp3.1\BasketBallApplcation.pdb
+C:\Users\M1022338\source\repos\BasketBallApplcation\obj\Debug\netcoreapp3.1\BasketBallApplcation.genruntimeconfig.cache
